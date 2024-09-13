@@ -1,4 +1,4 @@
-# 📊 Visualizing Reader Focus: Eye-Tracking Fixation Analysis in R 📚👁️
+# 👁️ Visualizing Reader Focus: Eye-Tracking Fixation Analysis in R 
 
 ## 🚀 Project Overview
 This project explores eye-tracking fixation data collected during a reading experiment. Using R, we analyze how participants' visual attention shifts across different Areas of Interest (AOIs) in reading materials. The analysis provides insightful patterns of reader engagement and focus.
